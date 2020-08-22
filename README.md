@@ -1,1 +1,3 @@
-I'm in. I think. lol# Soft
+## Inkrux
+
+Yay! Let's get started!
